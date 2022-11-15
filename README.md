@@ -16,7 +16,7 @@
 | Team Member 1 |  **Thiyakarajan.S**   |
 | Team Member 2 |  **Sathish S**          |
 | Team Member 3 |  **Siddharth Kumar Mishra**     |
-
+## PROJECT DESIGN PLANNING
 ## Ideation Phase
 
 * [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-28856-1660117518/tree/main/ProjectDesignPlanning/Ideation%20phase/Literature%20Survey)
